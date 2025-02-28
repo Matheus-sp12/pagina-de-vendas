@@ -2,7 +2,8 @@
 
 🚀 **Página de vendas moderna e responsiva**, desenvolvida para mostra para meus clientes o beneficio de um site para o seu estabelecimento!.  
 
-🔗 **Demonstração:** [Acesse aqui](https://pagina-de-vendas-phi.vercel.app/){:target="_blank"}
+🔗 **Demonstração:** [Acesse o site](https://pagina-de-vendas-phi.vercel.app/){:target="_blank"}
+
 
 ![Imagem de exemplo](./public/readmi.png)
 
