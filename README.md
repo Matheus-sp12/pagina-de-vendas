@@ -15,6 +15,7 @@
 
 ## 🛠️ Tecnologias Utilizadas
 - **React.js** ⚛️  
+- **TypeScript**  
 - **SCSS (SASS)** 🎨  
 - **Vercel** 🚀 *(Deploy)*  
 
