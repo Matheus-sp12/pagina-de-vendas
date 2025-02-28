@@ -13,12 +13,14 @@
 
     @media screen and (max-width: 1000px) {
         padding-inline: 20px;
+
     }
 
     @media screen and (max-width: 768px) {
-        padding-inline: 45px;
+        padding-inline: 45px auto;
         padding-top: 90px;
         padding-bottom: 60px;   
+      
     }
 
 }
@@ -30,11 +32,13 @@
 
     @media screen and (max-width: 1000px) {
         gap: 30px;
+          padding: 0;
     }
 
     @media screen and (max-width: 768px) {
         flex-direction: column;
         gap: 40px;
+        
     }
 }
 
@@ -47,6 +51,7 @@
 
     @media screen and (max-width: 768px) {
         padding-left: 20px;
+        padding: 0;
     }
 
 }
@@ -72,6 +77,11 @@
 
     img{
         border-radius: 15px;
+
+        @media screen and (max-width: 768px) {
+            margin: 0 auto;
+            padding: 0 auto;
+        }
     }
 }
 
