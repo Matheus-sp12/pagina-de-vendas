@@ -1,0 +1,33 @@
+.header {
+    background: #4B3CFF;
+}
+
+.content {
+    display: flex;
+    padding: 10px; /* padding-top e padding-bottom ao mesmo tempo */
+    justify-content: center;
+
+    p {
+        color: #fff;
+        text-align: center;
+        font-family: Sora;
+        font-size: 22px;
+        font-weight: 400    ;
+        line-height: 35.2px;
+
+        @media screen and (max-width: 768px) {
+            font-size: 14px;
+            line-height: 22.2px;
+        }
+
+        strong {
+            padding-left: 5px;
+            font-weight: 700;
+        } 
+    }
+
+    strong {
+        padding-left: 5px;
+        font-weight: 700;
+    }
+}
